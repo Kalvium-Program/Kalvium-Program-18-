@@ -1,0 +1,9 @@
+#js {
+  font-weight: 900;
+}
+#css {
+  font-size: 150%;
+}
+#hoverButton:hover {
+  background-color: green;
+}
