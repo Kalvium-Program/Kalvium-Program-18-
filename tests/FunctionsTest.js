@@ -46,6 +46,6 @@ describe("HTML and CSS Tasks", function () {
 
     // Check computed style after hover
     const computedStyle = getComputedStyle(button);
-    expect(computedStyle.backgroundColor).toBe("rgb(0, 128, 0)"); // Green in RGB
+    expect(computedStyle.backgroundColor).toBe("green"); // Green in RGB
   });
 });
